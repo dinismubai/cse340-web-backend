@@ -1,8 +1,7 @@
-# Each item listed in this file will be ignored by git
+**# Each item listed in this file will be ignored by git
 # and will not be uploaded to github. The blank lines
-# and comments are unnecessary, but included for 
-# clarification.
-
+# antid comments are unnecessary, but included for 
+# clargnoiefication
 # node_modules is a storage folder for Node and
 # can get very large.
 node_modules
@@ -14,3 +13,7 @@ node_modules
 
 # .DS_Store is only for Mac users
 **/.DS_Store
+
+
+#README.md will be ignored
+README.md

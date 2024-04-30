@@ -96,6 +96,12 @@ h2 {
   color: #3a3a3a;
 }
 
+#welcomeh2 {
+  color: #3a3a3a;
+  font-size: 1.6em;
+  font-family: 'Roboto', sans-serif;
+}
+
 body {
   align-items: center;
   background-image: url("../images/site/checkerboard.jpg");

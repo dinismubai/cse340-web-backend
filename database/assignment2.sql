@@ -22,7 +22,7 @@ UPDATE
 SET 
 	inv_description = REPLACE(inv_description, 'small interiors', 'huge interior')
 WHERE
-	inv_id = 25;
+	inv_id = 10;
 
 -- 5
 SELECT 
